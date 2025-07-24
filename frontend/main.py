@@ -152,7 +152,7 @@ def logout():
 def sidebar_navigation():
     """Render the sidebar navigation with unique keys"""
     with st.sidebar:
-        st.image(r"C:\Users\sneha\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 034634.png", width=150)
+        st.image("../static/images/image1.png", width=150)
         st.write(f"Logged in as: {st.session_state.user_email}")
         
         st.markdown("## Navigation")
