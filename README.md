@@ -102,6 +102,10 @@ Run Database Migrations:
 ```sh
 python manage.py migrate
 ```
+Make migration
+``` sh
+python manage.py makemigrations
+``` 
 Start the Django Server:
 ```sh
 # The backend will run on [http://127.0.0.1:8000](http://127.0.0.1:8000)
