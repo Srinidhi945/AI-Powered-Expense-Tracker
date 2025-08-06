@@ -106,22 +106,22 @@ Make migration
 python manage.py makemigrations
 ``` 
 Start the Django Server:
+The backend will run on [http://127.0.0.1:8000](http://127.0.0.1:8000)
 ```sh
-# The backend will run on [http://127.0.0.1:8000](http://127.0.0.1:8000)
 python manage.py runserver
 ```
 3. Frontend Setup (Streamlit)
 This sets up the user interface. Open a new terminal for this part.
 
 Navigate to Frontend & Install Dependencies:
+ From the project root directory
 ```sh
-# From the project root directory
 cd frontend
 pip install -r requirements.txt
 ```
 Start the Streamlit App:
-```
-# The frontend will run on http://localhost:8501
+ The frontend will run on http://localhost:8501
+``` sh
 streamlit run app.py
 ```
 4. Usage
