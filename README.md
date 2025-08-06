@@ -2,7 +2,7 @@
 
 This is not just another expense tracker. This application leverages a suite of six specialized machine learning models to provide deep, actionable insights into your financial health. From predicting disposable income to detecting overspending and recommending personalized budgets, this tool is designed to be your intelligent financial co-pilot
 
-## 📚 Table of Contents
+##  Table of Contents
 
 * [The AI Core: Six Intelligent Models](#-the-ai-core-six-intelligent-models)
 * [Tech Stack & Architecture](#-tech-stack--architecture)
@@ -12,7 +12,7 @@ This is not just another expense tracker. This application leverages a suite of 
 
 ---
 
-## 🤖 The AI Core: Six Intelligent Models
+##  The AI Core: Six Intelligent Models
 
 The power of this application lies in its ensemble of machine learning models, each trained for a specific financial analysis task.
 
@@ -36,7 +36,7 @@ This model uses machine learning to help users plan their budgets more effective
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 This project utilizes a modern, full-stack architecture to deliver a seamless experience.
 
@@ -55,7 +55,7 @@ This project utilizes a modern, full-stack architecture to deliver a seamless ex
 
 ---
 
-## ⚙️ Setup and Installation
+##  Setup and Installation
 
 This is a full-stack application. Follow these steps carefully to set up the environment.
 
@@ -136,7 +136,7 @@ Mobile Application: Develop a native mobile app for on-the-go expense tracking.
 
 Cloud Deployment: Deploy the entire stack to a cloud provider like AWS or GCP.
 
-## 📞 Contact
+## Contact
 Linkedin Profile- https://www.linkedin.com/in/srinidhi-poreddy
 
 Email- srinidhiporeddy@gmail.com
