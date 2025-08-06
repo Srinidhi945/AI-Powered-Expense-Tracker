@@ -87,7 +87,7 @@ Log in to your MySQL server.
 
 Create a new database for the project: CREATE DATABASE budget_db;
 
-Create a .env file in the /backend directory to store your database credentials securely. Add the following content, replacing the placeholder values:
+Create a .env file in the /backend directory to store your database credentials securely. Add the following content in setting.py, replacing the placeholder values:
 ```sh
 DB_NAME=budget_db
 DB_USER=your_mysql_user
