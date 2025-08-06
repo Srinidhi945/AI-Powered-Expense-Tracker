@@ -137,6 +137,8 @@ Mobile Application: Develop a native mobile app for on-the-go expense tracking.
 Cloud Deployment: Deploy the entire stack to a cloud provider like AWS or GCP.
 
 ## 📞 Contact
-Srinidhi Poreddy - https://www.linkedin.com/in/srinidhi-poreddy
+Linkedin Profile- https://www.linkedin.com/in/srinidhi-poreddy
+
+Email- srinidhiporeddy@gmail.com
 
 Project Link: https://github.com/Srinidhi945/AI-Powered-Expense-Tracker
