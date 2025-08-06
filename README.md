@@ -1,7 +1,6 @@
-# AI-Powered Expense Tracker 🧠💸
+# AI-Powered Expense Tracker 
 
-This is not just another expense tracker. This application leverages a suite of six specialized machine learning models to provide deep, actionable insights into your financial health. From predicting disposable income to detecting overspending and recommending personalized budgets, this tool is designed to be your intelligent financial co-pilot.
----
+This is not just another expense tracker. This application leverages a suite of six specialized machine learning models to provide deep, actionable insights into your financial health. From predicting disposable income to detecting overspending and recommending personalized budgets, this tool is designed to be your intelligent financial co-pilot
 
 ## 📚 Table of Contents
 
