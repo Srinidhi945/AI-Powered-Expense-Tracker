@@ -74,7 +74,7 @@ This sets up the database, dependencies, and API server.
 
 Navigate to Backend & Create Virtual Environment:
 ```sh
-cd backend
+cd Expense-Tracker
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 Start the Streamlit App:
  The frontend will run on http://localhost:8501
 ``` sh
-streamlit run app.py
+streamlit run main.py
 ```
 4. Usage
 With both servers running, open your browser and navigate to http://localhost:8501 to use the application.
